@@ -222,7 +222,7 @@ header{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-image: linear-gradient(white,rgb(217, 217, 217));
+    background-image:linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 #studs{
     margin: 2rem 0 0 6rem;
@@ -310,7 +310,7 @@ main h1{
 
 .box2{
     /* height: 50rem; */
-    background-color: rgb(217, 217, 217);
+    background-color: #659DBD;
     padding-bottom: 3rem;
     padding-top: 8rem;
 }
